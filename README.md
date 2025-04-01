@@ -1,9 +1,9 @@
 ![Web Designer & Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/469901960_122145527228349644_1272669920029570086_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=mHb_FT_zvr4Q7kNvgHIGpxZ&_nc_oc=Adn9OtPPhmMzo2AKVUdHi99672XOreqe-P21L0apVddxCIcwWJAdeCcjc-6R1O15II8&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=yUnweXIE9L87ShwqhdNcPw&oh=00_AYFljAgtKo6Wvv5MamUK4LzIHbUVmalXTZbV5Mj7tkcFUQ&oe=67F218FA)
-### Hi there 👋, I'm Chandan Das
+# Hi 👋, I'm Chandan Das
 #### Web Designer & Web Developer
 I’m Chandan Das, a passionate Web Designer & Frontend Developer with expertise in building visually stunning and highly functional websites. I specialize in React.js, WordPress, and SEO to create web experiences that are both user-friendly and search-engine optimized.
 
-Skills: HTML | CSS | JavaScript | React.js | Tailwind CSS | WordPress
+###Skills ✔✔✔✔: ✅HTML | ✅CSS | ✅JavaScript | ✅React.js | ✅Tailwind CSS | ✅WordPress
 
 - 🔭 I’m currently working on Building custom WordPress themes & plugins 
 - 🌱 I’m currently learning React.js, Tailwind CSS, and Advanced JavaScript 
